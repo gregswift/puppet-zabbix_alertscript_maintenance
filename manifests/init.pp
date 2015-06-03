@@ -62,7 +62,7 @@ class zabbix_alertscript_maintenance (
   $autoupgrade = $zabbix_alertscript_maintenance::params::autoupgrade,
   $user        = 'Maintenance',
   $password    = undef,
-  $api         = 'https://localhost/zabbix',
+  $endpoint    = 'https://localhost/zabbix',
 ) inherits zabbix_alertscript_maintenance::params {
 
 ### Validate parameters

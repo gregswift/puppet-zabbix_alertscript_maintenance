@@ -1,6 +1,6 @@
 {
   "name": "xaeth-zabbix_alertscript_maintenance",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "author": "Greg Swift",
   "summary": "Install Maintenance alertscript for Zabbix",
   "license": "Apache License, Version 2.0",
